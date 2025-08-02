@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd
+                      ">
+
+  <modelVersion>4.0.0</modelVersion>
+  <artifactId>maven-parent</artifactId>
+  <groupId>com.alap</groupId>
+  <version>1.0.0</version>
+  <packaging>pom</packaging>
+
+  <name>Maven Parent Demo</name>
+  <description>Maven Parent Demo description</description>
+  <url>http://alap.com</url>
+
+  <licenses>
+    <license>
+      <name>Alap License</name>
+      <comments>This is licensed by Alap</comments>
+    </license>
+  </licenses>
+
+  <organization>
+    <name>Alap</name>
+    <url>http://alap.com</url>
+  </organization>
+
+  <developers>
+    <developer>
+      <name>Alap Mistry</name>
+      <email>alapmistry@example.com</email>
+    </developer>
+  </developers>
+</project>
